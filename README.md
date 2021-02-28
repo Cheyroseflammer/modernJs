@@ -20,18 +20,18 @@ These projects are all practicing Javascript DOM events some include:
 
 ### 1 .) Task List
 
-![task-list](screenshots\taskListSS.png)
+![task-list](screenshots/taskListSS.png)
 
 ### 2 .) Loan Calculator
 
-![loan-calculator](screenshots\loanCalculatorSS.png)
+![loan-calculator](screenshots/loanCalculatorSS.png)
 
 ### 3 .) Number Guesser
 
 Wrong Answer Feedback
-![num-guesser-wrong](screenshots\numGuessWrongSS.png)
+![num-guesser-wrong](screenshots/numGuessWrongSS.png)
 Right Answer Feedback
-![num-guesser-right](screenshots\numGuessRight.png)
+![num-guesser-right](screenshots/numGuessRight.png)
 
 ## OOP Project
 
@@ -52,4 +52,4 @@ This project uses HTML, CSS, and JS. This project is centered around object orie
 
 ### 1. ) Book List
 
-![book-list](screenshots\bookListSS.png)
+![book-list](screenshots/bookListSS.png)
