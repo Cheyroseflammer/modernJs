@@ -76,3 +76,9 @@ These projects were built using a mix of:
 This project is built with Ajax the simple app will fetch a set of chuck norris jokes based on the amount a user gives, return them and display them in the browser using DOM manipulation.
 
 ![chuck-norris](screenshots/chuckNorrisSS.png)
+
+### 2. ) Easy HTTP
+
+This project is custom ES5 object oriented HTTP AJax XHR library with callbacks using prototypes (will be updated using the Fetch API & ES6 classes).
+
+![easy-http](screenshots/easyHttpSS.png)
