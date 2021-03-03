@@ -29,8 +29,11 @@ These projects are all practicing Javascript DOM events some include:
 ### 3 .) Number Guesser
 
 Wrong Answer Feedback
+
 ![num-guesser-wrong](screenshots/numGuessWrongSS.png)
+
 Right Answer Feedback
+
 ![num-guesser-right](screenshots/numGuessRight.png)
 
 ## OOP Project
@@ -53,3 +56,23 @@ This project uses HTML, CSS, and JS. This project is centered around object orie
 ### 1. ) Book List
 
 ![book-list](screenshots/bookListSS.png)
+
+## Async JS, Ajax & Fetch API Projects
+
+These projects were built using a mix of:
+
+- Async & Await
+- ES6 promises
+- Ajax
+- XHR
+- JSON
+- Fetch API
+- HTTP Requests
+
+---
+
+### 1. ) Chuck Norris Joke Generator
+
+This project is built with Ajax the simple app will fetch a set of chuck norris jokes based on the amount a user gives, return them and display them in the browser using DOM manipulation.
+
+![chuck-norris](screenshots/chuckNorrisSS.png)
